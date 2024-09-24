@@ -1,0 +1,20 @@
+{
+  "banChats": false,
+  "menu_audio": false,
+  "verificado": true,
+  "antipv": false,
+  "anticall": false,
+  "visualizarmsg": true,
+  "listanegraG": [],
+  "TOKEN_GPT": "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",
+  "CmdPremium": ["destrava","destrava2","ddd","gerarcpf","premiumlist","tinyurl","cuttly","bitly","celular","scep","cotacao","nome1","nome2","cpf1","cpf2","cpf3","cpf4","tel","tel2","tel3","parentes","beneficios","score","placa1","placa2","cnpj","site","email","bin","rg","igstalk","mae","vacina","vizinhos","titulo","cns"],
+  "blockCmdG": [],
+  "dono1": "553195566439",
+  "dono2": "558299668686",
+  "dono3": ".",
+  "dono4": ".",
+  "dono5": ".",
+  "dono6": ".",
+  "botoff": false,
+  "Odelete": true
+}
